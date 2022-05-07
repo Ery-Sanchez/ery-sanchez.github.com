@@ -13,7 +13,7 @@ body {
 .wrapper {
 	width: 80%;
 	margin: 0 auto;
-	padding: 1rem 2.5em;
+	padding: 1rem 4rem;
 	display: flex;
 	flex-flow: row nowrap;
 	background-color: #fff7c1;
